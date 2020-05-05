@@ -1,4 +1,5 @@
-# reloj_analogico
+# Reloj Analógico
 
-> Proyecto para trabajar con requestAnimationFrames y prefers-reduced-motion (HTML5 - ECMAScript - CSS3)
+> HTML5 - ECMAScript - CSS3
+> Proyecto para trabajar con requestAnimationFrames y prefers-reduced-motion
 > [Página de prueba - Live demo](https://github.com/orses/reloj_analogico 'Live demo')
