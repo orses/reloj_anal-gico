@@ -1,0 +1,14 @@
+{
+  "name": "analog_clock",
+  "version": "1.0.0",
+  "description": "Analog Clock. Source: https://www.kirupa.com/html5/totally_awesome_analog_clock.htm. A project to learn ECMASCript + CSS3 + SVG",
+  "main": "index.js",
+  "author": "JuanPCB",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
